@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+body{
+    padding: 40px;
+}
+.windows_img{
+    height: fit-content;
+}
+.newscard, .redcard{
+    height:450px!important;
+}
